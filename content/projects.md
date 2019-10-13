@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-10-09T21:07:31+01:00
-draft: true
+draft: false
 ---
 
 ## * Data Science Capstone Text Predictor: 

@@ -60,6 +60,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-linkedin"
     weight = 2
     url = "http://linkedin.com/in/andre-carlo-tipping-61109547/"
+[[params.social]]
+    name = "Email"
+    icon = "far fa-envelope"
+    weight = 3
+    url = "mailto:at8865@my.bristol.ac.uk"
 
 
 
@@ -84,10 +89,6 @@ disqusShortname = "yourdiscussshortname"
             weight = 3
             url = "projects/"
 
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
 
 
     [languages.pt-br]
@@ -117,8 +118,3 @@ disqusShortname = "yourdiscussshortname"
             name = "Projetos"
             weight = 3
             url = "projects/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
-            weight = 5
-            url = "contact/"

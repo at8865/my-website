@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2019-10-14T10:05:44+01:00
 title = "Creating a static website using Hugo and hosting it on Github"
 description = ""
@@ -105,5 +105,5 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 ```
-In the command line, make it executable with `chmod +x deploy.sh`. Then run `/deploy.sh "Your optional commit message"`.
+In the command line, make it executable with `chmod +x deploy.sh`. Then run `./deploy.sh "Your optional commit message"`.
 Finally, commit the changes to `<YOUR-PROJECT>` repository as well. And voila, the website should be up and running at `https://<USERNAME>.github.io`!

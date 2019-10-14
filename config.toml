@@ -93,7 +93,7 @@ disqusShortname = "atipping"
 
     [languages.pt-br]
         languagename = "Português"
-        title = "TheLoneBrit101"
+        title = "André Tipping"
 
         [languages.pt-br.params]
             author = "André Carlo Tipping"

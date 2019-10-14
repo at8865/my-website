@@ -10,9 +10,9 @@ externalLink = ""
 series = []
 +++
 
-I'm going to lay it out here, the steps I took to create this website and then host it on github, as the official [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/) isn't hugely clear. I am going to split this post into two sections: creation of the site, and then deploying it to github.
+I'm going to lay it out here, the steps I took to create this website and then host it on github, as the official [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/) isn't hugely clear. I am going to split this post into two sections: [creation of the site](#1), and then [deploying it to github](#2).
 
-# Creating the site
+# Creating the site # {#1}
 The first step is to install [Hugo](https://gohugo.io/getting-started/installing/).
 I'm running Linux-Mint so I used the following in the command line:
 ```
@@ -23,9 +23,9 @@ Now, you can go ahead and create a website using:
 hugo new site <website-name> # replace <website-name> to something of your choice
 ```
 For the moment it's just a blank canvas so to change that a theme needs to be chosen.
-Navigating to (themes)[https://themes.gohugo.io/] you can see a large collection of designs to choose from.
+Navigating to [themes](https://themes.gohugo.io/) you can see a large collection of designs to choose from.
 
-After deciding on the theme you want, click on it. Click on the download button and you will be sent to its github page. I used (coder)[https://github.com/luizdepra/hugo-coder]. 
+After deciding on the theme you want, click on it. Click on the download button and you will be sent to its github page. I used [coder](https://github.com/luizdepra/hugo-coder). 
 
 Download the theme by performing the following:
 ```
@@ -59,7 +59,7 @@ Navigate to your new site at http://localhost:1313/.
 
 Make any other configurations or changes and your site will reflect them straight away.
 
-# Deploying the site
+# Deploying the site # {#2}
 The first thing to do is create two new repositories in your Github account. The first `<YOUR-PROJECT>` to host your generated content, and the other `<USERNAME>.github.io` containing the fully rendered version of the website. Ensure that they're both empty. You can host on a User Page or on a Project Page; as this is my personal blog/portfolio, I went with the former.
 
 ```

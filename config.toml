@@ -19,7 +19,7 @@ disqusShortname = "atipping"
     author = "André Carlo Tipping"
     description = "André's personal website"
     keywords = "blog,developer,personal"
-    info = "Engineer | Data Scientist"
+    info = "Analyst | Engineer"
     avatarurl = "images/avatar.jpg"
     footercontent = "Place to organise my projects and thoughts."
 
@@ -97,7 +97,7 @@ disqusShortname = "atipping"
 
         [languages.pt-br.params]
             author = "André Carlo Tipping"
-            info = "Engenheiro / Cientista de Dados"
+            info = "Analista | Engenheiro"
             description = "Sítio pessoal de André"
             keywords = "blog,desenvolvedor,pessoal"
             footercontent = "Local para organizar os meus projetos e pensamentos."

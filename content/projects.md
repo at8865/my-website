@@ -7,6 +7,9 @@ draft: false
 ## * Data Science Capstone Text Predictor: 
 http://rpubs.com/TheLoneBrit101/503450
 Capstone of Data Science Specialization by John Hopkins University via Coursera sponsored by Swiftkey
+## * Analysis of EV impact on conventional fuels: 
+http://rpubs.com/TheLoneBrit101/540345
+A small 2-page analysis/thought-piece answering the question: to what extent will electric vehicles impact the demand for conventional fuels?
 ## * Analysis of Most Harmful US Storm Events:
 http://rpubs.com/TheLoneBrit101/471344
 This project involves exploring the U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database. This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage. 
